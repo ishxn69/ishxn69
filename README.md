@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aquatic0s
 - 👀 I’m interested in Software development!
-- 🌱 I’m currently learning C++!
+- 🌱 I’m currently learning Python!
 - 💞️ I’m currently busy adding up the necessary skills to collaborate on a project in the future!
 - 📫 Feel free to reach out on my email! gadekar.ishan@gmail.com
 
