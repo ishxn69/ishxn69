@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aquatic0s
-- 👀 I’m interested in Software development!
+- 👋 Hi, I’m Ishan Gadekar!
+- 👀 I’m interested in Software Engineering and DevOps!
 - 🌱 I’m currently learning Python!
 - 💞️ I’m currently busy adding up the necessary skills to collaborate on a project in the future!
 - 📫 Feel free to reach out on my email! gadekar.ishan@gmail.com
