@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ishan Gadekar!
 - 👀 I’m interested in Software Engineering and DevOps!
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning Java!
 - 🐤 Documenting my Learning Journey on [Twitter](https://twitter.com/ishxn69)!
 - 💞️ I’m currently busy adding up the necessary skills to collaborate on a project in the future!
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ishangadekar/)!
