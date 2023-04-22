@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ishan Gadekar!
 - 👀 I’m interested in the DevOps methodology!
-- 🌱 I’m currently learning DevOps tools and methodologies!
+- 🌱 I’m currently learning DevOps tools and processes!
 - 🐤 Documenting my Learning Journey on [Twitter](https://twitter.com/ishxn69)!
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ishangadekar/)!
 - 😄 He/Him 
