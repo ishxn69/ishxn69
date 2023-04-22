@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Ishan Gadekar!
-- 👀 I’m interested in Software Engineering!
-- 🌱 I’m currently working in C++!
+- 👀 I’m interested in the DevOps methodology!
+- 🌱 I’m currently learning DevOps tools and methodologies!
 - 🐤 Documenting my Learning Journey on [Twitter](https://twitter.com/ishxn69)!
-- 💞️ I’m currently learning fundamental Data Structures and Algorithms!
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ishangadekar/)!
 - 😄 He/Him 
 
