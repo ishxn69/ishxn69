@@ -8,6 +8,7 @@
 - 🌱 Currently learning DevOps tools and concepts!
 - 🐤 Documenting my Learning Journey on [Twitter](https://twitter.com/ishxn69)!
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ishangadekar/)!
+- 📝 Don't forget to checkout my articles on [Hashnode](https://izzg.hashnode.dev/)!
 - 😄 He/Him 
 
 <h3 align="left">Connect with me:</h3>
