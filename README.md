@@ -1,6 +1,7 @@
+<p align="center">
+ <img src="./2026-11-01-github-banner.svg" width="100%" alt="Ishan Gadekar – Artificial Intelligence & Data Science">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishxn69&label=Profile%20views&color=0e75b6&style=flat" alt="ishxn69" /> </p>
-
-![image](https://github.com/ishxn69/ishxn69/assets/90507442/2047253c-87b5-486e-bfaa-796aadc63fd9)
 
 # 👋 Hi, I’m Ishan Gadekar!
 
