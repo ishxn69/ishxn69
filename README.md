@@ -7,10 +7,10 @@
 
 - 📊 I love using data to solve problems - Analytics, Machine Learing, Pipelines.
 - 🧬 I've previously worked as an AI intern at the South Australian immunoGENomics Cancer Institute (SAiGENCI) to combat antibiotic resistance.
-- Read about my internship experience here [work in progress]. 
+- Read about my internship experience [here](https://github.com/ishxn69/saigenci-internship). 
 - These are the projects I've worked on 👇
-  - Rangeland Detection using a Fusion Model and Multimodal Data.
-  - High Impact Anomalous Bushfire Detection in Victoria.
+  - [Rangeland Detection using a Fusion Model and Multimodal Data](https://github.com/ishxn69/rangeland-photo-fusion-model).
+  - [High Impact Anomalous Bushfire Detection in Victoria](https://github.com/ishxn69/outlier-bushfire-analysis).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
