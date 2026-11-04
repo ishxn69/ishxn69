@@ -7,6 +7,7 @@
 
 - 📊 I love using data to solve problems - Analytics, Machine Learing, Pipelines.
 - 🧬 I've previously worked as an AI intern at the South Australian immunoGENomics Cancer Institute (SAiGENCI) to combat antibiotic resistance.
+- Read my experience here. 
 - These are the projects I've worked on 👇
   - Rangeland Detection using a Fusion Model and Multimodal Data.
   - High Impact Anomalous Bushfire Detection in Victoria.
